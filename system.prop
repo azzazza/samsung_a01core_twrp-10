@@ -1,0 +1,9 @@
+ro.display.series=SM-A013F
+ro.product.name=a01core
+ro.product.product.device=a01core
+ro.product.board=k39tv1_bsp_1g_titan
+ro.board.platform=mt6739
+ro.adb.secure=0
+ro.boot.dynamic_partitions=true
+ro.boot.avb_version=1.0
+ro.boot.vbmeta.avb_version=1.0
